@@ -1,0 +1,13 @@
+.contact-container{
+    background-image: url(../../../images/appointment.png);
+    height: 500px;
+    background-size: cover;
+}
+.formating-design{
+    margin-left: 200px;
+    
+}
+.format-button{
+    margin-top: 10px;
+    margin-left: 400px;
+}
